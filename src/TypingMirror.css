@@ -1,0 +1,14 @@
+.typing-mirror {
+  border: solid 1px black;
+  display: flex;
+  padding: 20px;
+}
+
+.typing-mirror .form-input, .typing-mirror p {
+  width: 50%;
+}
+
+.typing-mirror p {
+  font-family: sans-serif;
+  font-size: 2em;
+}

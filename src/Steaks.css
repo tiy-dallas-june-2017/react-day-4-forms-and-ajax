@@ -1,0 +1,19 @@
+.steaks {
+  background-color: #EEE;
+  padding: 40px;
+}
+
+.steaks ol {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.steaks li {
+  list-style-type: none;
+  margin: 1%;
+  width: 31.333333%;
+}
+
+.steaks img {
+  max-width: 100%;
+}

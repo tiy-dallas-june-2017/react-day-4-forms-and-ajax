@@ -1,0 +1,14 @@
+.dragonlance {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 40px;
+}
+
+.dragonlance .character {
+  background-color: rgba(60, 126, 206, 0.3);
+  border: solid 1px rgb(60, 126, 206);
+  box-sizing: border-box;
+  margin: 1%;
+  padding: 10px;
+  width: 48%;
+}
